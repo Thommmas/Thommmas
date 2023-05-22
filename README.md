@@ -1,5 +1,5 @@
 <div class="text-center">
-  <div style="display: inline-flex;">
+  <div style="display: flex;">
     <div style="padding:20px; padding-top: 30px">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thommmas&layout=compact&theme=transparent" alt="Top languages" width="2500" height="200"/>
     </div>
