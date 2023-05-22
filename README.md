@@ -1,5 +1,5 @@
 <div style="display: flex;align-items: center;justify-content: center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thommmas&layout=pie&langs_count=10&theme=transparent" alt="Top languages" width="2500" height="400"/>
+    <img style="float: left;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thommmas&layout=pie&langs_count=10&theme=transparent" alt="Top languages" width="2500" height="400"/>
    <div style="font-size: 20px;padding-left: 20px">
       <h3>Who am I ? </h3>
       <p> 
